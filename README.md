@@ -1,1 +1,5 @@
 # MSci-Project---Oscillating-Cosmological-Perturbations
+
+
+Abstract:
+This project investigates methods to integrate coupled systems of first-order ordinary differential equations with highly oscillatory solutions. These results inform the adaptability of community codes used to solve the Einstein-Boltzmann equations in cosmological perturbation theory. We first clarify the distinctions between Magnus expansion and multiple-scale analysis based approaches and contrast their suitability for use in cosmological perturbation theory. We then motivate the improved empirical performance demonstrated by a proposed modified Magnus expansion method known as the “Jordan-Magnus” method. Following this we generalize this approach, implementing a numerical routine that can be applied to arbitrarily sized systems and find it doesn’t outperform standard Magnus expansion methods. We also develop and implement a Chebyshev spectral collocation stepping method which offers improved accuracy and run-time for a five variable toy cosmology compared to Runge-Kutta and Magnus methods as well as offering improved flexibility through adaptive order.
