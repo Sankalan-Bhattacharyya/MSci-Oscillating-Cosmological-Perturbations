@@ -12,6 +12,7 @@ This project investigates methods to integrate coupled systems of first-order or
 
 The project folder contains the following files:
 
+- `Master's Thesis Sankalan.pdf`: This is the project report.
 - `matrix_decomposition_experiments.py`: This is a Jupyter notebook containing rough experiments for algorithms for approximate or iterative numerical diagonalisation and other similarity transformations.
 - `cosmological_systems_code.py`: This script sets up equations and matrices for a specific cosmological system and solves them using the different integration methods.
 - `Two and Three-Dimensional Systems Code.py`: This script sets up equations and matrices for simple airy/burst and other analytically solvable oscillatory ODEs than can be formulated in a 2d or 3d system.
